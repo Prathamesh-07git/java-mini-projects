@@ -1,73 +1,53 @@
-# Project Name
+# ☕ Java Mini Projects
 
-Brief one-line description of what this project does.
+A collection of Java mini projects built while learning Core Java.
 
-> Example: A console-based number guessing game built in Java using loops and conditionals.
+This repository contains small projects and practice programs that help me understand Java concepts through hands-on coding. Each project focuses on improving problem-solving skills and strengthening programming fundamentals.
 
----
+## 📚 Concepts Covered
 
-## 🛠️ Tech Stack
-
-- Java 17+
-- (Add more if needed — Spring Boot, MySQL, React etc.)
-
----
-
-## 📌 Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-> Example:
-> - Random number generation between 1–100
-> - Tracks number of attempts
-> - Input validation for out-of-range guesses
-
----
-
-## 📁 Project Structure
-
-```
-project-name/
-├── src/
-│   └── FileName.java
-└── README.md
-```
-
----
-
-## ▶️ How to Run
-
-**Prerequisites:** Java installed on your system
-
-```bash
-# Step 1 — Clone the repo
-git clone https://github.com/your-username/repo-name.git
-
-# Step 2 — Navigate into the folder
-cd repo-name
-
-# Step 3 — Compile
-javac FileName.java
-
-# Step 4 — Run
-java FileName
-```
-
----
-
-## 📚 Concepts Used
-
+- Variables & Data Types
+- Operators
+- Conditional Statements
 - Loops
-- Conditionals
 - Methods
-- (Add relevant concepts)
+- Arrays
+- Strings
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- Collections
+- File Handling
+- Basic Algorithms
 
----
+## 📂 Repository Structure
 
-## 🙋‍♂️ Author
+Each project is organized in its own folder with clean and readable code.
 
-**Prathamesh**
-- GitHub: [@Prathamesh-07git](https://github.com/Prathamesh-07git)
-- Portfolio: [prathamesh-portfolio-eight.vercel.app](https://prathamesh-portfolio-eight.vercel.app)
+```
+java-mini-projects/
+├── Calculator
+├── Matrix Operations
+├── Pattern Printing
+├── Number Guess Game
+├── Student Management
+└── ...
+```
+
+## 🚀 Purpose
+
+- Learn Java by building mini projects
+- Practice programming concepts
+- Improve coding and problem-solving skills
+- Track my learning journey
+
+## 🛠️ Technologies
+
+- Java
+- Eclipse / IntelliJ IDEA
+- Git & GitHub
+
+## 👨‍💻 Author
+
+**Prathamesh Deshmukh**
+
+Computer Science Engineering Student
