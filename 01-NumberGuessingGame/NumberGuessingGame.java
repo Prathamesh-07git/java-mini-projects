@@ -21,8 +21,8 @@ System.out.println("enter the number :- ");
 int yourAnswer = sc.nextInt();
 int randomNumber = random.nextInt(range);
 int attempt = 0;
-
-while (yourAnswer==randomNumber) {
+int i = 0;
+while (yourAnswer!=randomNumber) {
     if(yourAnswer==randomNumber){
         System.out.println("you guess the number its "+randomNumber+"and you took "+attempt+" attempt");
     }
@@ -35,7 +35,9 @@ while (yourAnswer==randomNumber) {
     else{
 System.out.println("your guess is too low");
     }
+    i++;
     attempt++;
+
 }
 
 // System.out.println(randomNumber);
